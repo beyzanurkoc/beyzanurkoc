@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @beyzanurkoc
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning C software language .
+- 🌱 I’m currently learning Python software language .
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://www.linkedin.com/in/beyzanurko%C3%A7/ or beyzannkoc@gmail.com 
 
